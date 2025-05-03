@@ -1,0 +1,1413 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "8c4d3696-285f-11f0-ac58-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.94,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [
+                28.6978,
+                28.9891,
+                29.1933,
+                29.1933,
+                7.1964,
+                0.5564,
+                1.4667,
+                0.001,
+                1.5688,
+                0.1081,
+                1.0313,
+                1.9345,
+                0.116,
+                0.2938,
+                2.2643,
+                0.2368,
+                3.0473,
+                0.5283,
+                0.6948
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 365,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-66d87804d035bb2768c63b40a5d1143464c349d9.jpg",
+        "raw-d3ebf9e7b3b293e731cd731d05cfdc97e3ef9c79.png"
+    ],
+    "name": "Bacteriology-2",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@ed84562",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمایز استاف از استرپ",
+                "تست کاتالاز (مثبت=&gt; استاف)"
+            ],
+            "guid": "w@V9Oi4l4K",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست تشخیصی گونه های استاف",
+                "کوآگولاز (مثبت=&gt; اورئوس)"
+            ],
+            "guid": "nJ_tXF6N_^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو دسته از باکتری های فلور پوستی که قبلا جزو استاف ها طبقه بندی میشدند",
+                "میکروکوک<br>آلیوکوک"
+            ],
+            "guid": "luu32iakq_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "میکروکوک ها در برابر هوا",
+                "هوازی اجباری"
+            ],
+            "guid": "tF]-0$bczn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آلیوکوک ها میتوانند عامل چه عفونتی باشن؟",
+                "مزمن گوش میانی در کودکان"
+            ],
+            "guid": "m/qnQ4xmr}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تعداد آلیوکوک ها بیشتر است یا میکروکوک ها؟",
+                "میکروکوک"
+            ],
+            "guid": "niauUsMb&#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "به چه علت استاف ها انقدر مقاومن؟",
+                "بخاطر پنتوگلایسین های لایه ی پپتیدوگلیکانی"
+            ],
+            "guid": "e4o.w*sSpP",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کارکرد های کوآگولاز",
+                "ایجاد لخته =&gt; حفاظت در برابر سیستم ایمنی و انتی بیوتیک ها<br>اتصال&nbsp;"
+            ],
+            "guid": "gzSkIF`k^Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص میکروکوک ها از استاف",
+                "تست اکسیداز یا انتی بیوتیکی"
+            ],
+            "guid": "&$46>at{)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گرم مثبت های شایع برای عفونت های ادراری در جامعه و بیمارستان",
+                "جامعه: استاف ساپروفیتیکوس<br>بیمارستان: انتروکوک ها"
+            ],
+            "guid": "C2p:?!A4dU",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف ساپروفیتیکوس بیشتر در چه کسانی بیماری زایی میکند؟",
+                "خانم های جوان فعال جنسی"
+            ],
+            "guid": "eu@Oe5LZT1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نوع همولیز استاف اپیدرمیدیس و استاف اورئوس و استاف ساپروفیتیکوس",
+                "اپیدرمیدیس: گاما<br>اورئوس: بتا<br>ساپروفیتیکوس: گاما"
+            ],
+            "guid": "l7pFf~&Z=$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام گونه از استاف ها پس از عمل جراحی قلب باز ممکنه بیوفیلم بسازه روی دریچه مصنوعی",
+                "اپیدرمیدیس<br><img src=\"paste-66d87804d035bb2768c63b40a5d1143464c349d9.jpg\">"
+            ],
+            "guid": "j)#$/Y3A`;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیگمان های استاف اپیدرمیدیس و اورئوس چه رنگیه؟",
+                "اپیدرمیدیس: سفید<br>اورئوس: طلایی"
+            ],
+            "guid": "j/=H:[RmMx",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گونه استاف کاپیتیس هدفش کجاست؟",
+                "فلور نرمال پیشانیه در غدد سباسه"
+            ],
+            "guid": "wZE^]5tp_(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس با تشکیل چه پیگمان هایی طلایی میشه؟",
+                "کاروتنوییدی"
+            ],
+            "guid": "DQI$NiDn!a",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام باکتری جلوی کولونیزه شدن استاف اورئوس در دهان رو میگیره؟ چطوری؟",
+                "استرپ ویریدنس با تولید H2O2"
+            ],
+            "guid": "J8x>*[Ru:m",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم باکتری آنتاگونیست استاف اورئوسه و در نتیجه چیکار میکنه؟",
+                "کورینه باکتریوم و استاف اپیدرمیدیس<br>جلوی اتصال اورئوسو میگیره"
+            ],
+            "guid": "Me#0dgW,J`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس به کدام باکتریوفاژ حساس است؟",
+                "فاژ 23"
+            ],
+            "guid": "i7N~8[F%=,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل 90 درصد عفونت های پوستی؟",
+                "استاف اورئوس"
+            ],
+            "guid": "lp_ais%5y0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل نصف مسمومیت های غذایی",
+                "استاف اورئوس"
+            ],
+            "guid": "zTpAA.r=47",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رتبه دوم عفونت های ثانویه<br>رتبه اول؟",
+                "استاف اورئوس<br>هموفیلوس آنفلوآنزا"
+            ],
+            "guid": "tRVZ%YaK1W",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف ها توانایی تحمل غلظت بالای نمک را دارند",
+                "بله مخصوصا اورئوس"
+            ],
+            "guid": "H.JRD;kvnr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سروتیپ های مختلف کپسول استاف اورئوس چیست و کدام شایع تر و کدام پاتوژن تر است؟",
+                "5 و 7؟؟؟ 1و 2؟؟؟؟؟؟"
+            ],
+            "guid": "yW_ucTcMR;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش SasG در استاف اورئوس",
+                "اتصال به دیواره بینی که باعث میشه به عنوان فلور بینی اورئوسو ببینیم"
+            ],
+            "guid": "k~GxbQ|q_{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلی ساکارید A چیست و از چی تشکیل شده و کجاست",
+                "تیکوییک اسید + گروه ریبیتول فسفات<br>دیواره استاف اورئوس"
+            ],
+            "guid": "N3uaglV/Gv",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام لیپوتیکوییک اسید استاف اورئوس LTA",
+                "پلی ساکارید A"
+            ],
+            "guid": "tgi!7$yc%V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلی ساکارید B کجاست؟",
+                "استاف اپیدرمیدیس (LTA + گلیسرول فسفات)"
+            ],
+            "guid": "sl7*uAz:.@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فاکتورتجمع پروتیین در استاف اورئوس",
+                "clf پروتیین"
+            ],
+            "guid": "b#^Fwvg}~C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش پلی ساکارید A در استاف اورئوس",
+                "اتصال به فیبرونکتین بافت همبند میزبان"
+            ],
+            "guid": "I?5(1ol7j?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یکی از اصلی ترین عوامل ایمنوژنسیته بودن استاف اورئوس پلی ساکارید A ان است",
+                "نه ایمنوژن ضعیفیه"
+            ],
+            "guid": "F$cvu$GgMS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is MSCRAMM?",
+                "Microbial Surface Components Recognizing Adhesive Matrix Molecules<br>پروتیین های سطحی استاف اورئوس که به ماتریکس خارج سلولی میزبان میچسبن"
+            ],
+            "guid": "Aq>AKg{/G3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پروتیین اختصاصی استاف اورئوس چیست",
+                "پروتیین A"
+            ],
+            "guid": "B%^J5Bfc(y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد پروتیین A&nbsp;",
+                "با اتصال به F_c انتی بادی جلوی اتصالشون به فاگوسیت رو میگیره و در نتیجه جلوی اپسونیزاسیون و فاگوسیتوزیس رو میگیره<br>به پروتیین های کمپلمان مخصوصا C3b هم متصل میشه<br>در تست سرولوژی به عنوان مارکر عمل میکنه"
+            ],
+            "guid": "McsL#hM+[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو جز MSCRAMM در استاف اورئوس را نام ببرید",
+                "پروتیین A<br>کوآگولاز"
+            ],
+            "guid": "_,=al&d2-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رایج ترین عامل عفونت های مفصلی و استخوانی (آرتریت و استئومیلیت)",
+                "استاف اورئوس"
+            ],
+            "guid": "gb<:wz-rGU",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پروتیین A عملکرد کدام انتی بادی ها را مختل میکند؟",
+                "IgG1,2,4"
+            ],
+            "guid": "Qrd(1cQI[z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکردهای کپسول استاف اورئوس در بیماری زایی",
+                "اتصال به میزبان<br>مهار کموتاکسی<br>مهار فاگوسیتوزیس"
+            ],
+            "guid": "cdjwt8W^$z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پپتیدوگلیکان های استاف اورئوس تب زا هستند یا چرک زا",
+                "تب زا (pyrogen)"
+            ],
+            "guid": "B?mc`=>x-A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مسئول ایجاد آبسه های استاف اورئوسی",
+                "پپتیدوگلیکانش<br>آلفا و بتا توکسین<br><img alt=\"Generated image\" src=\"raw-d3ebf9e7b3b293e731cd731d05cfdc97e3ef9c79.png\">"
+            ],
+            "guid": "p-wl7G2_uz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توکسین های استاف اورئوس را نام ببرید",
+                "سیتوتوکسین<br>اکسفولیاتیو<br>انتروتوکسین<br>توکسین 1 سندرم شوک سمی"
+            ],
+            "guid": "xni55T<gke",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5 نوع سیتوتوکسین استاف اورئوس را نام ببرید و بگویید کدام یک در اغلب آن ها یافت نمی شود",
+                "آلفا توکسین<br>بتا توکسین<br>دلتا توکسین<br>گاما توکسین<br>لوکوسیدین پنتون والنتین (این کمه)"
+            ],
+            "guid": "LeX{[g5;9?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام سیتوتوکسین های استاف اورئوس در همولیز بودنش نقش دارند؟",
+                "آلفا توکسین + بتا توکسین"
+            ],
+            "guid": "A)$dY4aGB;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام توکسین اسفنگومیلیناز C استاف اورئوس",
+                "بتا توکسین"
+            ],
+            "guid": "DCONu=Ggvd",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه عملکرد آلفا توکسین استاف اورئوس",
+                "ایجاد منفذ در غشای سلول ها =&gt; لیز اسموتیک =&gt; تخریب عضلات صاف عروق خونی"
+            ],
+            "guid": "cS99PLag;;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با حرارت دادن غذا میتوان جلوی تخریب اسفنگومیلین های غشا را با تخریب نوعی سم گرفت",
+                "بله<br>بتا توکسین استاف اورئوس به حرارت حساسه"
+            ],
+            "guid": "Pt8*s|F0)>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش دلتا توکسین استاف اورئوس",
+                "تخریب کننده غشای سلولی"
+            ],
+            "guid": "H0LOxLM=b8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دترجنت استاف اورئوس",
+                "دلتا توکسین"
+            ],
+            "guid": "MVyL6Qh.&>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عارضه ناشی از لوکوسیدین پنتون والنتین استاف اورئوس",
+                "لیز اسموتیک لوکوسیت ها به جز گلبول قرمز =&gt; پنومونی خونریزی دهنده"
+            ],
+            "guid": "jZnDRgMQ}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام توکسین استاف اورئوس توانایی تخریب گلبول های قرمز را ندارد؟",
+                "لوکوسیدین پنتون والنتین"
+            ],
+            "guid": "k9B@cY#}G2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توکسین پوستی استاف اورئوس",
+                "توکسین اکسفولیاتیو"
+            ],
+            "guid": "Ev<{R4A7rN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه عملکرد توکسین اکسفولیاتیو و انواعش",
+                "تجزیه دسموگلین-1 اپیدرم&nbsp;<br>ETA, ETB"
+            ],
+            "guid": "r=A=(z^K<N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های ETA,ETB در استاف اورئوس",
+                "ETA: مقاوم به حرارت / ژن فاژ داخل کروموزومی<br>ETB حساس به حرارت / پلازمیدی"
+            ],
+            "guid": "zCRSrwzC+U",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل SSS نوزادان",
+                "توکسین اکسفولیاتیو استاف اورئوس"
+            ],
+            "guid": "i3e#aFh7iJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین توکسین عامل مسمومیت های غذایی",
+                "انتروتوکسین A استاف اورئوس"
+            ],
+            "guid": "wyn.@l0>DJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عارضه ی انتروتوکسین B استاف اورئوس",
+                "انتروکولیت با غشای کاذب استافیلوکوکی"
+            ],
+            "guid": "z8j[$a=)1g",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه انتقال انتروتوکسین A, D,C",
+                "A: گوشت<br>D,C: شیر"
+            ],
+            "guid": "w=t.~AZ_`j",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 عامل فعال کننده سلول های T به صورت اختصاصی توسط استاف اورئوس را نام ببرید",
+                "توکسین اکسفولیاتیو + انتروتوکسین + توکسین 1 سندرم شوک سمی<br><br>سوپر انتی ژنن"
+            ],
+            "guid": "OC0GVY|TSM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی مسمومیت غذایی ناشی از استاف اورئوس÷",
+                "استفراغ&nbsp;<br>تب کم&nbsp;<br>خود محدود شونده<br>قابلیت کشت نداره چون تاثیر سمشه نه خود باکتری"
+            ],
+            "guid": "Al7.Yxb}eo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس دارای 7 انزیم است. نام ببرید",
+                "کوآگولاز<br>کاتالاز<br>هیالورونیداز<br>پنی سیلیناز<br>لیپاز<br>نوکلئاز<br>فیبرینولیزین (استافیلوکیناز)"
+            ],
+            "guid": "NoJW+t?&JI",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش کوآگولاز و فیبرینولیزین در بیماری زایی استاف اورئوس",
+                "اول کوآگولاز نقش داره چون میخواد کمک کنه باکتری کولینزه بشه&nbsp;<br>بعد فیبرینولیزین فعال میشه که باکتریو منتشر کنه"
+            ],
+            "guid": "QQ.5@[5,R7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "با چه ویژگی ای استاف اورئوس تشخیص میده که مواد ترشحیشو عوض کنه؟",
+                "با ویژگی&nbsp;quorum sensing"
+            ],
+            "guid": "qH3Nd2XocN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آنزیم کمک کننده به استاف اورئوس در عفونت های پوستی",
+                "لیپاز (+هیالورونیداز)"
+            ],
+            "guid": "tMT?FoqDCM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس با کمک چه سیستمی توانایی&nbsp;quorum sensing را پیدا کرده است؟",
+                "با سیستم agr = Accessory Gene Regulator<br>"
+            ],
+            "guid": "G/u,*G2U_:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیستم agr استاف اورئوس چیکار میکنه؟",
+                "1. شرایط محیط رو میسنجه<br>2. بیان ژن رو تنظیم میکنه"
+            ],
+            "guid": "ID#=M?TFnQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عفونت های پوستی ناشی از سم استاف اورئوس هستند",
+                "نه بخاطر ساختار باکتری و آنزیم هاشن"
+            ],
+            "guid": "5)KgxWo$C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 بیماری مرتبط با توکسین های استاف اورئوس",
+                "SSS<br>TSS سندرم شوک سمی<br>مسمومیت های غذایی"
+            ],
+            "guid": "KiV`eR7>%W",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری رایترRitter نام دیگر بیماری ؟ است",
+                "SSS"
+            ],
+            "guid": "C.<c#}R}wL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نام سرین پروتئازهای استاف اورئوس چیست",
+                "توکسین اکسفولیاتیو"
+            ],
+            "guid": "E~m+>5=KZ:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در بیماری SSS سندرم فلسی شدن پوست، علامت نیکولسکی +/- ؟",
+                "+"
+            ],
+            "guid": "FnQYGYPs}Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توکسین های اکسفولیاتیو با تجزیه کدام پیوند ها موجب SSS میشوند؟",
+                "دسموزومی"
+            ],
+            "guid": "Ac<})W8FVJ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل اصلی ارتریت (التهاب مفاصل) در کودکان و بالغین",
+                "کودکان: استاف اورئوس<br>بالغین: نایسریا گنوره آ"
+            ],
+            "guid": "H4HBu97HBm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام باکتری در صورت مزمن شدن SSS به عنوان عفونت ثانویه وارد میشه؟",
+                "استرپ های گروه A"
+            ],
+            "guid": "J)>*HKUSI;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت مرگ در اثر ابتلا به سندرم فلسی شدن پوست SSS استاف اورئوس است.",
+                "نه عفونت های ثانویه ایه که با از بین رفتن سد دفاعی اول وارد میشن"
+            ],
+            "guid": "l._Z/a9_%.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کشت حاصل از پوسته های SSS منفی است یا مثبت",
+                "منفی چون علتش سم باکتریه نه خودش"
+            ],
+            "guid": "BaGl{IX{xk",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم SSS",
+                "اریتمی موضعی (اطراف لب) و منتشر<br>تاول بدون ارگانیسم (مایع شفاف)<br>نیکولسکی مثبت"
+            ],
+            "guid": "P8:hUbTOu;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عارضه ی ناشی از انتروتوکسین D,C استاف اورئوس",
+                "مسمومیت غذایی (شیوع کمتر)"
+            ],
+            "guid": "JQu)#!2n3J",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "impetigo چیست",
+                "زرد زخم تاولی"
+            ],
+            "guid": "mR$hKv6ckn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم زرد زخم تاولی",
+                "در کودکان و نوزادان<br>وزیکول های حاوی ارگانیسم موضعی (منتشر نیستن)<br>ضایعات قرمز محدود<br>کشت مثبت<br>علامت نیکولسکی منفی"
+            ],
+            "guid": "kvV`yS2s<,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SSS برخلاف زرد زخم مسری است",
+                "نه<br>زرد زخم خیلی مسریه ولی SSSاصلا"
+            ],
+            "guid": "gqDN5e~8Zo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سویه خاصی از ...... موجب زرد زخم تاولی میشه. چه سویه ای؟",
+                "استاف اورئوس فاژ تیپ 71"
+            ],
+            "guid": "y2=vQ3ZN)S",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایا انتروتوکسین های استاف اورئوس اثر هیستوپاتولتیک دارن؟",
+                "بله حاشیه مسواکی ژژنوم رو تخریب میکنن"
+            ],
+            "guid": "jNSHgr)HH+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت اسهال در پی مسمومیت غذایی ناشی از استاف اورئوس",
+                "تخریب حاشیه مسواکی ژژنوم =&gt; کاهش جذب"
+            ],
+            "guid": "PuKnO]bIS?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت تهوع و استفراغ ناشی از مسمومیت استاف اورئوس",
+                "رهاسازی سیتوکاین های التهابی از ماست سل ها توسط تحریکات انتروتوکسین ها"
+            ],
+            "guid": "t[4NYoQug",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در مسمومیت غذایی استافیلوکوکی مخزن ..... است",
+                "انسان"
+            ],
+            "guid": "z5zy=dDRBu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توکسین 1 سندرم شوک سمی در تمام استاف اورئوس ها تولید میشود",
+                "نه فقط 15 درصد"
+            ],
+            "guid": "G/Q7sDzSD/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیان ژن TSST-1 (توکسین 1 سندرم شوک سمی) تحت چه شرایطی رخ میدهد؟",
+                "اکسیژن زیاد و ph خنثی"
+            ],
+            "guid": "o*1Uj4_+M7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم سندرم شوک سمی استافیلوکوکی",
+                "راش ماکولار اریتماتوز منتشره<br>پوسته ریزی<br>تب<br>افت فشار<br>اسهال و استفراغ<br>درگیری تنفسی"
+            ],
+            "guid": "5yvr?L<?Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سندرم شوک سمی تحت چه شرایطی موجب مرگ میشه؟",
+                "عدم تشخیص (تامپون واژن یا بینی)"
+            ],
+            "guid": "vQZdHNFD1.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس بینی تحت چه شرایطی بیماری زا میشه؟",
+                "بعد عمل با تامپون شرایط تولید توکسین 1 سندرم شوک سمی ایجاد میشه و بیماری زایی میکنه"
+            ],
+            "guid": "Pgm&-I6PG5",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "7 نوع بیماری ناشی از ساختار استاف اورئوس",
+                "عفونت های پوستی چرکی موضعی<br>باکتریمی<br>اندوکاردیت<br>پنومونی<br>ایمپیا<br>استئومیلیت<br>آرتریت"
+            ],
+            "guid": "nw!Qm%Sqh:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو عامل زرد زخم",
+                "استاف اورئوس<br>استرپتوکوک پایوژنز"
+            ],
+            "guid": "eZB`K-8tM`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شباهت ها و تفاوت های زرد زخم و فولیکولیت",
+                "عامل هر دو استاف اورئوسه<br>فولیکولیت فولیکول مو توش درگیره برخلاف زرد زخم"
+            ],
+            "guid": "cT8@$&M5go",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کورک چیست؟",
+                "furuncle<br>فولیکولیت توسعه یافته"
+            ],
+            "guid": "Ey@n81?@Yr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آیا زرد زخم دردناک است؟ فولیکولیت و کورک چطور؟",
+                "فقط کورک دردناکه"
+            ],
+            "guid": "idu(J:[x4%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "درمان کورک",
+                "پماد موضعی موپیروسین (انتی بیوتیک ضد غشا)"
+            ],
+            "guid": "36=Wyr9~B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت ها وشباهات کفگیرک و کورک",
+                "carbuncle<br>کفگیرک تب و لرز داره و انتشارش سیستمیکه<br>کورک اینارو نداره و سطحی تره"
+            ],
+            "guid": "wNz8L0Yo<c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "افرادی که تحت عمل جراحی میگیرن بیشتر دچار چه انواع عفونت با استاف اورئوس میشن؟",
+                "عفونت های زخم<br>باکتریمی (اندوکاردیت)"
+            ],
+            "guid": "eY/o~.bkjm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اندروکاردیت ناشی از استاف اورئوس متعاقب به ..... رخ میدهد",
+                "باکتریمی"
+            ],
+            "guid": "A!6ppuRINO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در اندوکاردیت ناشی از استاف اورئوس تب مشاهده میشود",
+                "بله"
+            ],
+            "guid": "HFgz_CSWP!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در معتادان تزریقی و افراد با استفاده مداوم از کاتتر وریدی کدام عارضه های استاف اورئوسی شایع تر است؟",
+                "باکتریمی =&gt; اندوکاردیت"
+            ],
+            "guid": "F`0KU1)},Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو راه ابتلا به پنومونی ناشی از استاف اورئوس",
+                "1. ناشی از آسپیراسیون<br>2. ناشی از انتشار خونی"
+            ],
+            "guid": "e$J^u]`pTR",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پنومونی استافیلوکوکی ناشی از آسپیراسیون در چه افرادی رخ میدهد؟",
+                "دارای بیماری زمینه ای که فلور نرمال استاف اورئوس داشتن: سالمندان/مبتلایان به آنفلوآنزا/سیگاریا"
+            ],
+            "guid": "PAtXUwasX`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع پنومونی ناشی از استاف اورئوس متعاقب به اندوکاردیت یا باکتریمی است؟",
+                "پنومونی ناشی از انتشار خونی"
+            ],
+            "guid": "kl[VAV!+6%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع پنومونی استافیلوکوکی میتواند پنومونی نکروزدهنده بدهد؟",
+                "پنومونی ناشی از انتشار خون استاف اورئوس"
+            ],
+            "guid": "Q9H1I!dDF/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از مشخصات پنومونی استافیلوکوکی: (2 مورد)",
+                "وجود آبسه<br>تراکم های چرکی در ریه"
+            ],
+            "guid": "MorxCR,_R*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پنومونی اکتسابی جامعه یا CAP چیست؟",
+                "پنومونی ناشی از استاف اورئوس که میتونه نکروزدهنده یا خونریزی دهنده باشه و ناشی از توکسین لوکوسیدین پنتون والنتینه"
+            ],
+            "guid": "L0j_`N^HBC",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توکسین لوکوسیدین پنتون والنتین در کدام نوع پنومونی پنومونی خونریزی دهنده میده؟",
+                "پنومونی اکتسابی جامعه"
+            ],
+            "guid": "y#qXOo(f$y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت ایمپیما و پنومونی",
+                "ایمپیما ترشحات نقاط خاصی از ریه هستن ولی پنومونی کل ریه است"
+            ],
+            "guid": "Cg,uZv$ws3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استئومیلیت استافیلوکوکی عمدتا در کدام استخوان ها رخ میدهد",
+                "متافیر استخوان های بلند"
+            ],
+            "guid": "etngcfUD#)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در کودکان استئومیلیت در پی چیه؟",
+                "عفونت پوستی منتشر"
+            ],
+            "guid": "rAr//srMsQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم اختصاصی استئومیلیت استاف اورئوس&nbsp;",
+                "تب بالا<br>ترشحات چرکی"
+            ],
+            "guid": "p8%>W@$+]/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در بالغین علامت اصلی استئومیلیت استافیلوکوکی",
+                "آبسه های برودی عمدتا در ستون مهره"
+            ],
+            "guid": "P-tg*GyS5w",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کشت آبسه های برودی منفیه",
+                "نه مثبته"
+            ],
+            "guid": "lBuj^$npB?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم آرتریت عفونی",
+                "درد شدید مفاصل<br>اریتماتوز<br>چرک در مفصل"
+            ],
+            "guid": "z*#8H;<=dC",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس عامل اصلی عفونت های ادراری گرم مثبت است",
+                "نه استاف ساپروفیتیکوسه"
+            ],
+            "guid": "MwUjV,zkC",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست DNAse برای استاف اورئوس مثبته یا منفی",
+                "مثبته"
+            ],
+            "guid": "HqT+{r6/Lm",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ژن لوکوسیدین پنتو والنتین در سویه دارای ژن تیپ ..... SCCmec وجود دارد",
+                "4"
+            ],
+            "guid": "gu~J#Z#mdt",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های تیپ های ژن SCCmec",
+                "1,2,3 عفونت بیمارستانی با مقاومت بیشتر<br>4 عفونت اکتسابی جامعه با مقاومت کمتر و سرایت بیشتر"
+            ],
+            "guid": "IX6wkTQH`c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "SCCmec چیست",
+                "قطعه ژنی حاوی ژن mecA که سبب مقاومت استاف اورئوس به متی سیلین میشه"
+            ],
+            "guid": "x@cbfL~5z>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد ژن mecA",
+                "تبدیل PBP به PBP2a که به متی سیلین هم مقاوم بشه"
+            ],
+            "guid": "N<T7V;sCFK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استاف اورئوس های VISA, VRSA&nbsp;",
+                "VISA ساخت دیواره برای مقاومت به ونکو<br>VRSA ورود ژن های vana,b برای مقاومت به ونکو"
+            ],
+            "guid": "b[W*<b@Mmu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سطوح درمانی استاف اورئوس",
+                "پنی سیلین (قدیمی)<br>متی سیلین (اگزاسیلین / نافی سیلین)<br>ونکومایسین<br>لینزولاید<br>داپتومایسین (عوارض زیاد) یا استرپتوگرامین ها (دالفوپریستین / کویینوپریستین)"
+            ],
+            "guid": "qmEe`LxA4b",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
