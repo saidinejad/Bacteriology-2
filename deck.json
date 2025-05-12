@@ -101,14 +101,18 @@
     "extendRev": 0,
     "media_files": [
         "paste-00e53e12e88d30651369ea4b1e4419040d7320cb.jpg",
+        "paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg",
+        "paste-16e3bcacc10a0ea32cde25cfdd08143ca12d779b.jpg",
         "paste-426cbf413a80bb53f7675284933e1c7f17e225fc.jpg",
         "paste-520d9798397ddc3395125b33ef6f037023d86b0e.jpg",
         "paste-66d87804d035bb2768c63b40a5d1143464c349d9.jpg",
         "paste-745922591254f8e115ab0e0252ffc56ddd84c795.jpg",
         "paste-8a3654cb05efd6b5301267a5b47535e54c17fc4d.jpg",
         "paste-8ff4651987f3ac262282b4171e85e1bc6935f990.jpg",
+        "paste-963ac57fe918179f97db8db5525ec2b6333dc1f2.jpg",
         "paste-9e35f1895bfd298c4c0326aeec6c227ae03266ae.jpg",
         "paste-a766ab8e07e3ca4e95f9cb62f61567a46299ff3e.jpg",
+        "paste-ba7b1a5b6363bbdd1be3833d639fd29a82e21140.jpg",
         "paste-d367f18c4c92bbabe411e911335f47e7b3fa89b9.jpg",
         "paste-e2f7a861dde08c5d3447e00445b4d01d60d2ab80.jpg",
         "paste-f1858009e205832b0cf97afcbfe4b956e0b3c3c2.jpg",
@@ -2761,7 +2765,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "انتروتوکسین ها&nbsp; باسیلوس سرئوس در برابر گرما و پروتئاز چه واکنشی دارن؟",
+                "انتروتوکسین ها&nbsp; باسیلوس سرئوس در برابر حرارت و پروتئاز چه واکنشی دارن؟",
                 "فرم استفراغی مقاوم به گرما و مقاوم به پروتئاز داره<br>فرم اسهالی حساس به گرما&nbsp; و پروتئاز"
             ],
             "guid": "bGZEIQDy2{",
@@ -3645,6 +3649,1056 @@
                 "نه&nbsp;<br>انتی بادیا نمیمونن"
             ],
             "guid": "I~-aHFd]hF",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها دو خانواده باکتریایی اسپورزا هستن کدومان؟",
+                "باسیلوس ها&nbsp;<br>کلستریدیوم ها"
+            ],
+            "guid": "Fo;R:G<X%0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده انتروباکتریاسه از نظر معیارهای زیر بررسی کنید:<br>اسپورزایی<br>گرم<br>تست کاتالاز<br>تست اکسیداز<br>تست نیترات<br>مصرف هوا<br>شکل",
+                "بدون اسپور<br>منفی<br>مثبت<br>منفی (وجه تمایز از باسیل های گرم منفی)<br>مثبت<br>بی هوازی اختیاری<br>کوکو باسیلی"
+            ],
+            "guid": "we~:As$<.Y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از نظر مصرف قندها انتروباکتریاسه ها چجوری ان؟",
+                "گلوکز مثبتن همشون<br>تست لاکتوز وجه افتراق بین جنس هاشه"
+            ],
+            "guid": "n,#yGSp,3^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اغلب جنس های عضو خانواده انتروباکتریاسه ها بیماری زا هستن",
+                "نه فلورن اکثرا که ممکنه فرصت طلب شن"
+            ],
+            "guid": "phzo!kH4/}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انتروباکتریاسه های بیماری زا را نام ببرید",
+                "(فرصت طلب نیستن)<br>(بلقوه پاتوژن)<br>یرسینیا پستیس<br>شیگلا<br>سالمونلا"
+            ],
+            "guid": "pT}`+ytmp7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست لاکتوز کدام جنس های انتروباکتریاسه منفیه؟",
+                "بیماری زاها: یرسینیا + شیگلا + سالمونلا + EIEC + پروتئوس اغلب"
+            ],
+            "guid": "b9.nkJ~XKk",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معروف ترین باکتری گرم منفی در خون (بیشترین عامل سپتی سمی)",
+                "اشرشیا کلای"
+            ],
+            "guid": "H*exbU)J}y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دسته بندی سویه های اشرشیا کلای بر چه اساسیه؟",
+                "میزان پاتوژنیسیته(پاتوتایپن نه سروتیپ) و ژنومشون (پلازمید)"
+            ],
+            "guid": "L]NRs#WH$_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خانواده انتروباکتریاسه بیشتر کدوم قسمت بدنو درگیر میکنن؟",
+                "یسلیانی گفته دستگاه گوارش ولی تو پاورش نوشته ادراری(UTI)"
+            ],
+            "guid": "MTwmLRMyq=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر انتی ژن زیر متعلق به کدام ویژگی باکتری است؟<br>H Ag<br>O Ag<br>Vi(K) Ag",
+                "فلاژل<br>تشخیص باکتری ها ویژگی اختصاصی<br>کپسول"
+            ],
+            "guid": "A(2k`HRw*r",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انتی ژن سوماتیک چه عملکردی برای باکتری داره؟",
+                "همون اندوتوکسین یا LPS یا O Ag<br>1. فعال کردن سیستم ایمنی کلا (کمپلمان + سایتوکاین ها + لکوسیتوز)<br>2. کاهش پلاکت (ترومبوسایتوپنیا)<br>3. DIC (انعقاد داخل عروقی منتشر)<br>4. تب<br>5. شوک و مرگ"
+            ],
+            "guid": "t|XgA3A/9P",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "LPS بیشتر سیستم ایمنی رو تحریک میکنه یا کپسول؟",
+                "LPS<br>کپسول انتی ژن ضعیفیه"
+            ],
+            "guid": "s-we.Q1jtH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام جنس های انتروباکتریاسه ها کپسول دارن؟",
+                "یرسینیا (پروتیینی)<br>کلبسیلا (ضخیم ترین)<br>سالمونلا"
+            ],
+            "guid": ":.@CdWT;e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انتروباکتریاسه ها توانایی antigen phase variation دارن.<br>یعنی چی؟ برای کدوم انتی ژنا؟",
+                "یعنی میتونن تغییرش بدن جوری که انتی بادی قبلی اثر نکنه دیگه =&gt; ADCC مهار<br>K + H<br><br>(phase diversity)"
+            ],
+            "guid": "tQbb?ybnz*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام سروتیپ های کلبسیلا بیماری زا ترن؟<br>تب زان یا چرک زا؟",
+                "1 و 2<br>تب زا"
+            ],
+            "guid": "qd3Jp,$hQc",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انتروتوکسین ها اگزوتوکسینن یا اندوتوکسین؟",
+                "اگزوتوکسین"
+            ],
+            "guid": "IlV8t$jZp#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کلونی های موکوییدی یا لعابی شکل متعلق به کدام جنس انتروباکتریاسه است؟",
+                "کلبسیلا چون ضخیمه کپسولش"
+            ],
+            "guid": "uL}``2b{,~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معرف رنگی هریک از تست های زیر را نام ببرید:<br>EMB<br>SSA<br>مک کانکی<br>HEC<br>XLD",
+                "ائوزین متیلن بلو<br>نوترال رد + بریلیانت گرین<br>نوترال رد<br>برم تیمول بلو + تری سولفات سدیم<br>برم تیمول بلو"
+            ],
+            "guid": "b?[~Uu2wp{",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معروف ترین محیط کشت باکتریایی شامل چیاست؟",
+                "نمک و املاح صفراوی<br>معرف رنگی نوترال رد<br>لاکتوز"
+            ],
+            "guid": "yB_.UX=hK6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام محیط کشت برای تشخیص اشرشیا کلای بیشتر مناسبه و چطوری تشخیص میدن؟",
+                "EMB&nbsp;<br>کلونیش جلای فلزی میده"
+            ],
+            "guid": "N8IIjVcE9|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هر یک از محیط های کشت زیر در تست لاکتوز چه رنگی میشن؟<br>EMB<br>SSA<br>مک کانکی<br>TSI<br>HEC<br>XLD",
+                "+ بنفش (- بی رنگ)<br>+ قرمز (- بی رنگ)<br>+ صورتی (- بی رنگ)<br>+ زرد (- صورتی)<br>+ نارنجی (- سبز)<br>+ زرد (- قرمز)"
+            ],
+            "guid": "zRT1r9#sG3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام محیط کشت از رشد گرم مثبت ها جلوگیری میکنه؟",
+                "مک کانکی با املاح صفراویش<br>و XLD و HEC"
+            ],
+            "guid": "e[!C:F>V(B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام محیط های کشت برای تشخیص تولید H2S استفاده میشن؟",
+                "HEC<br>TSI<br>XLD<br>(سیاه میشن)"
+            ],
+            "guid": "6C`c`0RoA",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اسم هر محیط کشت زیر مخفف چیه؟<br>EMB<br>SSA<br>TSI<br>HEC<br>XLD",
+                "Eosine methylen blue<br>salmonella shigella agar<br>triple sugar iron<br>hektoen enteric agar<br>xylose lysine deoxycholate agar"
+            ],
+            "guid": "r]b)xddpYz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام محیط های کشت برای کشت شیگلا و سالمونلا مناسبن؟",
+                "XLD<br>HEC<br>SSA"
+            ],
+            "guid": "s7Z{6uX=fw",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جنس های دارای حرکت انتروباکتریاسه",
+                "کلبسیلا + شیگلا + یرسینیا<br>(انتروباکتر حرکت متغیره که + محسوب میشه)"
+            ],
+            "guid": "HWvd9!a}dK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست IMViC در کدام خانواده باکتری مهمه و مخفف چیه",
+                "انتروباکتریاسه<br>ایندول + حرکت + VP-MR (قند) + سیترات"
+            ],
+            "guid": "gY|Y0=.4^Q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست لایزین دکربوکسیلاز مثبت + سیترات + نشونه کدوم جنس های انتروباکتریاسه است؟",
+                "کلبسیلا انتروباکتر سراشیا"
+            ],
+            "guid": "HtU2H=q(VK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست های تشخیص سراشیا",
+                "DNase<br>ژلاتیناز<br>لیپاز"
+            ],
+            "guid": "yF!EIGl5ue",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص پروتئوس مورگانلا پروویدنسیا از بقیه انتروباکتریاسه ها",
+                "تست حرکت خزشی<br>دآمینه کردن فنیل آلانین در محیط KCN"
+            ],
+            "guid": "gTyCp5!vE^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام جنس های انتروباکتریاسه پریتریش هستن؟",
+                "پروتئوس<br>مورگانلا<br>پروویدنسیا"
+            ],
+            "guid": "Fv-zst#4QM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پروتئوس مورگانلا و پروویدنسیا در چه محیطی کشت میشن؟ چرا؟",
+                "cled<br>چون حرکتشونو مهار میکنه (بخاطر نداشتن الکترولیت)"
+            ],
+            "guid": "qD&d^m=c$D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "CLED مخفف چیه؟",
+                "cystine lactose electrolyte deficient"
+            ],
+            "guid": "q/#{j#:`p:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای جداسازی سایر باکتری ها از پروتئوس مورگانلا پروویدنسیا از چی استفاده میکنن؟",
+                "از فنیل اتیل الکل (PEA) که رشد گرم منفیای باسیلی رو مهار میکنه"
+            ],
+            "guid": "b2z/FOQ.Is",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پروتئوس از سایر باکتری های دارای حرکت خزشی چجوری جدا میشه؟",
+                "با تست اوره آز (پروتئوس +)"
+            ],
+            "guid": "i`f<aOL%We",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "وجه تشخیصی سالمونلا از شیگلا و یرسینیا؟",
+                "تست حرکت (سالمونلا مثبت)"
+            ],
+            "guid": "d~}0ckz*!K",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری تولید کننده H2S در انتروباکتریاسه ها",
+                "سالمونلا تایفی"
+            ],
+            "guid": "u1N>LJGNP0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ag O روی Ag K یا برعکس؟",
+                "کا روی او<br>باید بجوشونیم تا کا از بین بره بعد دسترسی به او پیدا کنیم"
+            ],
+            "guid": "tEyv0b`Jxs",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ag Vi در واقع انتی ژن کپسول کدوم باکتریه؟",
+                "سالمونلا"
+            ],
+            "guid": "Czk@6]9%08",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ag O و Ag H در برابر گرما و الکل چجورین؟",
+                "او مقاومه برعکس اچ"
+            ],
+            "guid": "cE^EKvhIq<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویرولانس فاکتورهای اشرشیا کلای",
+                "خارج روده ای: اندوتوکسین + کپسول<br>درون روده ای: پیلی + LT + ST"
+            ],
+            "guid": "C7{nQZy=;@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم انتی ژن اشرشیا کلای باعث مننژیت میشه?<br>عفونت ادراری چی؟",
+                "Ag K1<br><br>Ag O<br>P pili"
+            ],
+            "guid": "hD)W6WgO9u",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اشرشیا کلای نوزادان + مسافرتی کدومان؟",
+                "نوزادان = EPEC (ETEC, EIEC هم ممکنه)<br>مسافرتی = ETEC (EIEC هم ممکنه)"
+            ],
+            "guid": "N[4{$C!}aS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم نوع اشرشیا کلای برخلاف بقیه توی کشورای توسعه یافته بیشتره؟",
+                "EHEC"
+            ],
+            "guid": "w7Q+w+ZGYV",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم گونه اشرشیا کلای فنوتیپ شبیه شیگلا و کدوم توکسین شبیه شیگلا داره؟",
+                "فنوتیپ = EIEC<br>توکسین = EHEC"
+            ],
+            "guid": "f#`cBq:AMV",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم گونه اشرشیا کلای درون سلولیه؟",
+                "EIEC<br><img src=\"paste-ba7b1a5b6363bbdd1be3833d639fd29a82e21140.jpg\">"
+            ],
+            "guid": "Dy#M[?xQ/d",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محل بیماری زایی گونه های اشرشیا کلای",
+                "همه روده کوچک به جز<br>EIEC + EHEC =&gt; روده بزرگ"
+            ],
+            "guid": "pqhePLM81O",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم گونه اشرشیا کلای میکروکولونی میسازه؟",
+                "EAEC (+EPEC)<br><img src=\"paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg\">"
+            ],
+            "guid": "Fxb{`Rg5le",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم نوع اشرشیا کلای اسهال طولانی مدت میده؟",
+                "EAEC که میکروکولونی میسازه"
+            ],
+            "guid": "LPur,B,|(<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عوامل مننژیت در هریک از سنین زیر:<br>زیر 1 ماه<br>1 تا 3 ماه<br>3 ماه تا 3 سال<br>بالغین<br>افراد دارای نقص ایمنی و سالمند و بستری",
+                "اشرشیا کلای + لیستریا مونوسایتوژنز<br>استرپ آگالاکتیه<br>هموفیلوس آنفلوآنزا<br>نایسریا مننژیتیس (اپیدمی)<br>پنوموکوک"
+            ],
+            "guid": "j2sMH4]6r}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم باکتری اپیدمی مننژیت میاره؟",
+                "نایسریا مننژیتیس"
+            ],
+            "guid": "dr=?A<s=n!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقص کدوم جز کمپلمان باعث مننژیت میشه؟",
+                "C5"
+            ],
+            "guid": "AlFh]-p,~]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم نوع اشرشیا کلای باعث عفونت ادراری میشه؟ چرا؟",
+                "UPEC فلور گوارش بوده که وارد دستگاه تناسلی میشه<br>ژن P pili(اتصالی) و همولایزین(لیز سلولی) فعال میشه"
+            ],
+            "guid": "N{|pZ[i8$]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایا EPEC توکسین تولید میکنه؟",
+                "معمولا نه ولی ممکنه وروتوکسین (VETEC) تولید کنه"
+            ],
+            "guid": "ffY3N9X!SQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عامل ضایعه های فنجانی شکلpedestal روده؟",
+                "EPEC"
+            ],
+            "guid": "PFzRB4phX6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پدیده ی attachment/effacement (A/E) توسط کدوم باکتری و چطوری رخ میده؟",
+                "EPEC<br>با فعال شدن سیستم ترشحی تیپ 3 یسری فاکتور به هم زننده ی اکتین سلولی وارد سلول روده میکنه<br><img src=\"paste-963ac57fe918179f97db8db5525ec2b6333dc1f2.jpg\"><img src=\"paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg\">"
+            ],
+            "guid": "H3kGfo+X%Y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "intimin + Tir در کدوم باکتری ها وجود داره و عامل چیه؟",
+                "EPEC + EHEC<br>باعث به هم خوردن سیستم اکتین سلول میشه<br><img src=\"paste-16e3bcacc10a0ea32cde25cfdd08143ca12d779b.jpg\">"
+            ],
+            "guid": "tDi|EIt=Pr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو فاکتور اصلی بیماری زایی (ویرولانس) EPEC",
+                "پیلی دسته جارویی<br>جزیره ژنی بیماری زای LEE"
+            ],
+            "guid": "O2W~-7z^wn",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلازمید حاوی ژن پیلی دسته جارویی",
+                "EAF (EPEC تو اشرشیا کلای)"
+            ],
+            "guid": "Ky*;5G{#0_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جزیره ژنی بیماری زای LEE در کدوم قسمت ژنومه؟ (EHEC)",
+                "فاژه داخل خود DNA ادغام شده<br>فاژ لیزوژن"
+            ],
+            "guid": "dOdu(BQN&G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EPEC سایتولیتیکه ولی توکسین نداره. چطوری؟",
+                "با همون پیلی P و سیستم ترشحیش (به هم زدن اکتین) باعث لیز سلولی میشه"
+            ],
+            "guid": "ysX^5@hJc(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام اشرشیا کلای دارای توکسین شبیه وبا است؟",
+                "ETEC"
+            ],
+            "guid": "j`u@jxcsP%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد ETEC",
+                "با LT باعث افزایش cAMP میشه =&gt; اسهال<br>با STa باعث افزایش cGMP میشه<br><img src=\"paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg\">"
+            ],
+            "guid": "p1i~@:,_1,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع ST برای انسان بیماری زا نیست؟",
+                "STb"
+            ],
+            "guid": "xxUT9)49V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ژنوم توکسین های ETEC روی پلازمیده",
+                "بله"
+            ],
+            "guid": "r>`@9zl]j?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی های اسهال با ETEC",
+                "تهوع نداره<br>اسهال شدیده<br>درد شکمی&nbsp;<br>(شبیه وبا ولی خفیف تر)"
+            ],
+            "guid": "eh~SB_SUL4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فاکتورهای ویرولانس ETEC",
+                "توکسین LT, ST<br>پیلی اتصالی (Colonization Factor)"
+            ],
+            "guid": "KZ$j>GnN5A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "LT به حرارت .... است برخلاف ST",
+                "حساس<br>(ST مقاومه)"
+            ],
+            "guid": "ndefb}ruA~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "LT از نوع توکسین ها A-B است",
+                "بله (A قسمت عملکردیه)"
+            ],
+            "guid": "FYn*Ptvb7_",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام توکسین کدام اشرشیا کلای با انتروتوکسین ویبریو کلره آ کراس ری اکت میده؟",
+                "LT ETEC"
+            ],
+            "guid": "l,Klw2vi};",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کولیت خونریزی دهنده برای کدام گونه اشرشیا کلای است؟",
+                "EHEC"
+            ],
+            "guid": "i&~9.8`HF;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سندرم اورمی همولایتیک ناشی از ابتلا به کدام باکتری است؟",
+                "EHEC"
+            ],
+            "guid": "ePw*E%h<C}",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم ابتلا به سندرم اورمی همولایتیک",
+                "انمی همولاتیک<br>ترومبوسایتوپنیا<br>مشکلات عصبی<br>میکرو آنژیوپاتیک (مشکلات عروقی)<br><br>نارسایی کلیوی"
+            ],
+            "guid": "j@WtZT2.0%",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین سویه ی EHEC از نظر انتی ژنی چیه؟",
+                "O157 : H7<br>(چون H داره یعنی حرکت مثبته)"
+            ],
+            "guid": "kRO9-e`N|2",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سندرم اورمی همولایتیک از نظر مرگ و میر",
+                "در کودکان 5 تا 10 درصد<br>در بالغین از 5 تا 30 درصد متغیره ولی شیوعشم کمتره"
+            ],
+            "guid": "C.F($fhFB,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "وروتوکسین شبیه شیگلا(Stx) در اشرشیا کلای موجب چی میشه؟",
+                "HUS سندرم اورمی همولایتیک<br>اسهال خونی"
+            ],
+            "guid": "B:W$:7B(C6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stx:<br>انواع<br>باکتری تولید کننده<br>نحوه عملکرد",
+                "1،2<br>EHEC<br>اتصال به Gb3 در کلیه مخصوصا (و گوارش) سپس اثر بر 28S rRNA باعث مهار پروتیین سازی&nbsp;<br><img src=\"paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg\">"
+            ],
+            "guid": "IfEkRI9JP+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "EHEC از چه طریقی منتقل میشه؟",
+                "گوشت یا شیر گاو"
+            ],
+            "guid": "cH}4G31n.b",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تست لاکتوز تنها در یک اشرشیا کلای منفیه. چیه؟",
+                "EIEC (ممکنه هم خیلی دیر مثبت شه که میگیم onpg +)"
+            ],
+            "guid": "eqU>M</4%>",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شایع ترین سروتیپ های EIEC",
+                "143<br>124"
+            ],
+            "guid": "EZu+Oq;:^K",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلازمید EIEC",
+                "pINV"
+            ],
+            "guid": "xHx>tAzjW<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شباهت فنوتیپی EIEC با شیگلا در چیه؟",
+                "هردو دیسانتری باسیلری میدن که یعنی توی اسهالشون مخاط و لکوسیت دیده میشه<br>دم اکتینی دارن هر دو (غیرمتحرک)"
+            ],
+            "guid": "BR?&VKo1jT",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "باکتری های دارای دم اکتینی",
+                "شیگلا<br>EIEC<br>لیستریا"
+            ],
+            "guid": "G/XJ@DXXrp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                ".....toxin is cytotoxic, enterotoxin, neurotoxin",
+                "shiga-type (Stx)"
+            ],
+            "guid": "oJ>J3t.;$!",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "طول بیماری با ETEC و EAEC",
+                "ETEC: 3 4 روز<br>EAEC: بیشتر از 14 روز"
+            ],
+            "guid": "jr`D#({#NK",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اگزوتوکسین های EAEC",
+                "ST توکسین<br>همولایزین<br><img src=\"paste-16b872922e8921149b4db11eb5ce883d9112e12b.jpg\">"
+            ],
+            "guid": "fHI=0JKafs",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "خطر ابتلا به EAEC",
+                "اگه در نوزادان خیلی طولانی شه ممکنه باعث عقب موندگی ذهنی شه"
+            ],
+            "guid": "gig^#x?N8t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم اشرشیا کلای اتوآگلوتیناسیون داره؟",
+                "EAEC"
+            ],
+            "guid": "I`BiS^K5Fb",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نمای آجری stacked-brike در اثر ابتلا به چیه؟",
+                "EAEC (+EPEC)"
+            ],
+            "guid": "KYO9sH]x1e",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is DAEC ?",
+                "نوعی از اشرشیا کلای<br>موجب اسهال ابکی در 1 تا 5 ساله ها<br>روده کوچک"
+            ],
+            "guid": "oL/?5[}{;z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام خانواده باکتری عامل بیشترین گاستروانتریت های انسانه؟",
+                "انتروباکتریاسه"
+            ],
+            "guid": "cWk~v66z8L",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام انتروباکتریاسه در محیط کشت رشد نمیکند؟",
+                "کلبسیلا گرانولوماتیس"
+            ],
+            "guid": "w4p.07X1|c",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نحوه انتقال یرسینیا و شیگلا معمولا چجوریه؟",
+                "یرسینیا از مخازن حیوانی<br>شیگلا میتونه فلور مهاجر باشه از سایر انسان ها"
+            ],
+            "guid": "A2w5w,EW{u",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "محیط کشت اختصاصی تست حرکت",
+                "SIM"
+            ],
+            "guid": "ln&VhVb#9x",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سمیت لیپید A کدام باکتری از همه بیشتره؟",
+                "سالمونلا تایفی Vi Ag"
+            ],
+            "guid": "b)kB5^jN`C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کپسول به دلیل مهار فاگوسیتوز باعث چه عفونتی میشه؟",
+                "عفونت منتشر در خون"
+            ],
+            "guid": "e)7&WtlIOM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انتروباکتریاسه ها چجوری نیازشون به آهن رو برطرف میکنن؟",
+                "با انتروباکتین(ائروباکتین) که تولید میکنن از بدن میگیرن"
+            ],
+            "guid": "m*>*J54+,B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویرولانس فاکتورهای دخیل در عفونت خون ناشی از اشرشیا کلای<br>در کدوم قسمت ژنوم هستن؟",
+                "Ag K1<br>همولایزین<br><br>فاژ"
+            ],
+            "guid": "e^JMdw]1g[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم توکسین ETEC باعث تولید پروستوگلاندین ها میشه؟",
+                "LT =&gt; التهاب"
+            ],
+            "guid": "LhTH~x;MeP",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دوز عفونی کدوم اشرشیا کلای پایینه؟",
+                "EHEC"
+            ],
+            "guid": "N[*%PZ0fJO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدوم نوع وروتوکسین بیشتر در سندرم اورمی همولایتیک نقش داره؟",
+                "Stx2"
+            ],
+            "guid": "v4M*uW@-Eh",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص EHEC از سایر سویه ها",
+                "تست سوربیتول (منفیه)"
+            ],
+            "guid": "nYaDmJc5D/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "..... همانند لیستریا به صورت درون سلولی بین سلولا حرکت میکنه",
+                "EIEC"
+            ],
+            "guid": "d!i0HHM;!/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پلازمید EAEC",
+                "PLNV"
+            ],
+            "guid": "PD.2<cKKkQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای درمان انتی بیوتیکی کدام سویه از اشرشیا کلای به انتی بیوگرام نیاز است؟",
+                "EAEC"
+            ],
+            "guid": "nFbHITlo8d",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
